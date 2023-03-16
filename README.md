@@ -1,48 +1,14 @@
-# todo-vue
 
-Sample todo app built with the Vue framework.
-For the accompanying documentation, see
-[Understanding client-side JavaScript frameworks: Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#vue_tutorials).
 
-For the live version, see https://mdn.github.io/todo-vue/.
+This is a Sample todo app built with the Vue framework.
 
-## Getting Started
 
-To get up and running, follow these steps:
 
-```bash
-npm install
-```
 
-### Compile and hot-reload for development
+##TODO Application Sample
+![TODOGIT](https://user-images.githubusercontent.com/100552311/225492139-22390481-57d5-41d7-a950-7d0e005b81ca.jpg)
 
-```bash
-npm run serve
-```
+#TODO application in Mobile complexivity
+![MOBILETODO](https://user-images.githubusercontent.com/100552311/225492150-e67cc9ae-482d-4488-9654-ac85e8fb886b.jpg)
 
-### Compile and minify for production
 
-```bash
-npm run build
-```
-
-### Lint and fix files
-
-```bash
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## Contributing
-
-Our project welcomes contributions from any member of our community.
-To get started contributing, please see our [Contributor Guide](CONTRIBUTING.md).
-
-By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the [LICENSE](LICENSE).
